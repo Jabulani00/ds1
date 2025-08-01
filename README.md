@@ -24,7 +24,7 @@
 ## 📋 Project Checklist
 
 - [ ] Repo Created & Named Correctly
-- [ ] JB Added as Collaborator
+- [ ] Marker Added as Collaborator
 - [ ] `/docs/` Folder Created
 - [ ] Markdown File Added
 - [ ] Word File Added
@@ -61,8 +61,8 @@
 
 ---
 
-## 📌 Notes for Marker (JB)
+## 📌 Notes for Marker 
 
-- Repo is **public** OR JB has been added as a **collaborator**
+- Repo is **public**
 - Final deliverables are in the `/docs/` folder
 - All checklist items completed
